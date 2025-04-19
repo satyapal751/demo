@@ -1,4 +1,3 @@
-# satyapalsinh
 # Hi there, I'm Satyapalsinh Chudasama 👋
 
 I'm a Computer Engineering student and a web developer interested in machine learning and artificial intelligence.
